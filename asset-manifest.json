@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aktau-map/static/css/main.e0381f3c.css",
+    "main.js": "/aktau-map/static/js/main.ecfbdda1.js",
+    "static/js/453.2828e772.chunk.js": "/aktau-map/static/js/453.2828e772.chunk.js",
+    "index.html": "/aktau-map/index.html",
+    "main.e0381f3c.css.map": "/aktau-map/static/css/main.e0381f3c.css.map",
+    "main.ecfbdda1.js.map": "/aktau-map/static/js/main.ecfbdda1.js.map",
+    "453.2828e772.chunk.js.map": "/aktau-map/static/js/453.2828e772.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0381f3c.css",
+    "static/js/main.ecfbdda1.js"
+  ]
+}
